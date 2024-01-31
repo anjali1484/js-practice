@@ -60,7 +60,6 @@ let form = document.querySelector("#myform")
 let userData = []
 getData()
 form.addEventListener("submit", function (event) {
-    console.log(event.target.value);
     let nameValue = document.querySelector("#name").value
     let ageValue = document.querySelector("#age").value
     let numberValue = document.querySelector("#number").value
