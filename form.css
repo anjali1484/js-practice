@@ -1,0 +1,22 @@
+form {
+     border: 1px solid black;
+    width: 300px;
+    text-align: center;
+    height: 200px;
+    padding: 20px;
+     background-color: aquamarine; 
+    
+}
+
+table,
+tr,
+th,
+td {
+    border: 1px solid black;
+    text-align: center;
+}
+/* #container{
+    border: 2px solid black;
+    height: 200px;
+
+} */
